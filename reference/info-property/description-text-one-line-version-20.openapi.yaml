@@ -1,0 +1,6 @@
+swagger: '2.0'
+info:
+  title: Dummy Bookshop
+  version: '1.0'
+  description: The Dummy Bookshop API is a fictitious API aiming to demonstrate the OpenAPI Specification's features.
+paths: {}

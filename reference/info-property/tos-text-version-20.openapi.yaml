@@ -1,0 +1,6 @@
+swagger: '2.0'
+info:
+  title: Dummy Bookshop
+  version: '1.0'
+  termsOfService: Any registered consumer can use our API, check out terms of service here https://www.dummy-book.shop/tos
+paths: {}

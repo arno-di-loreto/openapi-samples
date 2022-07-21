@@ -1,0 +1,6 @@
+swagger: '2.0'
+info:
+  title: Dummy Bookshop
+  version: '1.0'
+  termsOfService: https://www.dummy-book.shop/tos
+paths: {}

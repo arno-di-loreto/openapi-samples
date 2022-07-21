@@ -1,0 +1,6 @@
+openapi: 3.1.0
+info:
+  title: Dummy Bookshop
+  version: '1.0'
+  description: The **Dummy Bookshop API** is a _fictitious_ API aiming to demonstrate the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification)'s features.
+paths: {}
